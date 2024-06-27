@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <div className='logo'>
         <div className="logo-img">
-            <img src={logo} alt="logo" style={{height: '48px', marginRight: '10px'}} />
+            <img src={logo} alt="logo" style={{height: '40px', marginRight: '10px'}} />
         </div>
     </div>
   )
